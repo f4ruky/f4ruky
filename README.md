@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f4ruky&label=Profile%20views&color=0e75b6&style=flat" alt="f4ruky" /> </p>
 
-<p align="left"> <a href="https://twitter.com/donhuertero4" target="blank"><img src="https://img.shields.io/twitter/follow/donhuertero4?logo=twitter&style=for-the-badge" alt="donhuertero4" /></a> </p>
+
 
 - 🌱 I’m currently learning **Swift, JavaScript, React**
 
