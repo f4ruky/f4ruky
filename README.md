@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Swift, JavaScript, React**
+- 🌱 I’m currently learning **Swift**
 
 - 💬 Ask me about **İOS**
 
